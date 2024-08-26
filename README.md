@@ -89,8 +89,8 @@
 
 ### <h2>My GitHub Stats </h2>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nishur31&show_icons=true&locale=en&layout=compact&theme=midnight-purple) ![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR31&theme=midnight-purple)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=nishuR31&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aman-kumar2006&show_icons=true&locale=en&layout=compact&theme=midnight-purple) ![Jokes Card](https://readme-jokes.vercel.app/api?username=Aman-kumar2006&theme=midnight-purple)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aman-kumar2006&repo=Aman-kumar2006&show_owner=true&theme=midnight-purple)](https://github.com/Aman-kumar2006)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Aman-kumar2006&show_icons=true&theme=midnight-purple)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-kumar2006&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
@@ -98,5 +98,5 @@
 <br>
 
 ### Projects
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR31?tab=repositories)
+* I'm currently working on projects. [Click here to check my projects.](https://github.com/Aman-kumar2006?tab=repositories)
 * Stay tuned for more updates! 🚀
