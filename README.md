@@ -1,4 +1,4 @@
-### <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
+### <h1 align="center">Hi, I'm Aman 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=blueviolet&center=true&vCenter=true&width=2000&lines=This+is+my+Github+page+and+I+thank+everyone+who+helped+me+somewhere+in+my+life+and+made+the+me+I+am+today." alt="Typing SVG">
@@ -18,17 +18,17 @@
 ### <h2>Profile Data:</h2> 
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Aman-kumar2006&color=blueviolet" alt="Profile Views">
   <img src="https://img.shields.io/badge/HELLO-CODERS-black" alt="Custom Badge">
-  <img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
-  <img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
+  <img src="https://img.shields.io/github/issues-pr-closed/Aman-kumar2006/Aman-kumar2006?color=blueviolet" alt="Issue Count">
+  <img src="https://img.shields.io/github/issues/Aman-kumar2006/Aman-kumar2006?color=blueviolet" alt="Issue Count">
 </div>
 
 ### <h2>Other Information:</h2>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet" alt="GitHub Repo Size">
-  <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
+  <img src="https://img.shields.io/github/repo-size/Aman-kumar2006/Aman-kumar2006?color=blueviolet" alt="GitHub Repo Size">
+  <a href="https://github.com/sponsors/Aman-kumar2006" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
   <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love">
   <img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me">
 </div>
@@ -39,7 +39,7 @@
 ### <h2>My Trophies:</h2>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true" alt="nishur31" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer"><img src="https://github-profile-trophy.vercel.app/?username=Aman-kumar2006&theme=algolia&no-bg=true&no-frame=true" alt="Aman-kumar2006" /></a>
 </div>
 
 <br>
@@ -51,15 +51,15 @@
 * I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
 * I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** on mobile.
-* All of my projects are available at the [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
-* How to reach me: **nishanrajak7679@gmail.com** or **dreamgf691@gmail.com**. I'm always open to collaborations and discussions about tech!
+* All of my projects are available at the [Repository Tab](https://github.com/Aman-kumar2006?tab=repositories), where you can explore my coding journey.
+* How to reach me: **amankumar.kumar2006@gmail.com**. I'm always open to collaborations and discussions about tech!
 
 <br>
 <br>
 
 ### <h2>Connect with Me</h2>
 
-  Just email me at **nishanrajak7679@gmail.com**! 😊 I would love to connect with fellow developers and learn from their experiences.
+  Just email me at **amankumar.kumar2006@gmail.com**! 😊 I would love to connect with fellow developers and learn from their experiences.
 
 <br>
 
