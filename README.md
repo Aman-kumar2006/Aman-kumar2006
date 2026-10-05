@@ -21,6 +21,10 @@
 
 ## About
 
+<a href="https://github.com/Aman-kumar2006">
+<img src="amankumar.svg" width="100%" alt="Aman Kumar"/>
+</a>
+
 <div align="center">
 <table>
 <tr>
@@ -44,9 +48,7 @@ I also have basic knowledge of **C** and use **Termux** for development-related 
 
 <td width="38%" align="center" valign="middle">
 
-<a href="https://github.com/Aman-kumar2006">
-<img src="https://avatars.githubusercontent.com/Aman-kumar2006?v=4" width="210" alt="Aman Kumar"/>
-</a>
+
 
 <br/><br/>
 
